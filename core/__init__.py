@@ -1,0 +1,1 @@
+"""Core layer: pure logic, models, parsing, and exceptions."""

@@ -1,0 +1,1 @@
+"""Agents layer: Agent definitions, factory, and prompt templates."""

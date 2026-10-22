@@ -1,0 +1,19 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# 环境变量和 API 密钥
+.env
+.env.*
+
+# 保留示例配置文件（可选）
+!.env.example
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 临时测试目录
+tmp_test/
+tmp_pkg/
